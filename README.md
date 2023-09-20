@@ -1,16 +1,35 @@
-### Hi there 👋
+[modality](https://kairuz.github.io/modality)
 
-<!--
-**kairuz/kairuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Music-theory library based on heptatonic scales along with app demo.
+<br /><br />
 
-Here are some ideas to get you started:
+[acyoustic-web](https://kairuz.github.io/acyoustic-web)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Webapp presenting music project compositions.
+<br /><br />
+
+[collage](https://kairuz.github.io/collage)
+
+Proof of concept for dynamically generating musical bars based on property-matching inferring compatibility between riffs and motifs
+<br /><br />
+
+[music-tools](https://kairuz.github.io/music-tools)
+
+Various educational music tools.
+<br /><br />
+
+[predictament](https://kairuz.github.io/predictament)
+
+A game, the object of which is to avoid collision with asteroids and the sun, by traversing planets and jumping and flying between them, all the while maneuvering gravity.
+<br /><br />
+
+[trailblazer](https://kairuz.github.io/trailblazer)
+
+A* (A Star) Pathfinding implementation.
+<br /><br />
+
+
+[liquorice](https://kairuz.github.io/liquorice)
+
+Sort Visualizer
+<br /><br />
