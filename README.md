@@ -1,15 +1,17 @@
-I am a software engineer with over 10 years professional experience 
+I am a software engineer with over 10 years professional experience.
 
-mostly using languages
+[resume](https://kairuz.github.io/assets/evan-kairuz-resume.pdf)
+
+Mostly using languages
 - Java, Python, Javascript
 
-and working with relational SQL databases
+Working with relational SQL databases
 - Oracle, Postgres, MSSQL, MySQL
 
-and experience in NoSQL and key-value datastores
+Experience in NoSQL and key-value datastores
 - DyanmoDB, Redis
 
-I have experience in cloud technologies AWS
+Experience in cloud technologies AWS
 - lambda, step functions, redshift
 
 and GCP
@@ -17,7 +19,8 @@ and GCP
 
 
 I have experience in a range of industries
-- financial services, forex, mass media, clinical trial support and analytics, telecoms provisioning, and paralegal and litigation support.
+- financial services, forex, mass media, clinical trial support and analytics, telecoms provisioning, and paralegal and litigation support
+
 
 Since 2020 I have taken a hiatus from professional development pursuing personal interests, trading precious metals; gold and silver, and developing apps in javascript relating to 
 music composition and education
