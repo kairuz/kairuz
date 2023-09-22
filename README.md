@@ -1,35 +1,27 @@
-[modality](https://kairuz.github.io/modality)
+I am a software engineer with over 10 years professional experience 
 
-Music-theory library based on heptatonic scales along with app demo.
-<br /><br />
+mostly using languages
+- Java, Python, Javascript
 
-[acyoustic-web](https://kairuz.github.io/acyoustic-web)
+and working with relational SQL databases
+- Oracle, Postgres, MSSQL, MySQL
 
-Webapp presenting music project compositions.
-<br /><br />
+and experience in NoSQL and key-value datastores
+- DyanmoDB, Redis
 
-[collage](https://kairuz.github.io/collage)
+I have experience in cloud technologies AWS
+- lambda, step functions, redshift
 
-Proof of concept for dynamically generating musical bars based on property-matching inferring compatibility between riffs and motifs
-<br /><br />
-
-[music-tools](https://kairuz.github.io/music-tools)
-
-Various educational music tools.
-<br /><br />
-
-[predictament](https://kairuz.github.io/predictament)
-
-A game, the object of which is to avoid collision with asteroids and the sun, by traversing planets and jumping and flying between them, all the while maneuvering gravity.
-<br /><br />
-
-[trailblazer](https://kairuz.github.io/trailblazer)
-
-A* (A Star) Pathfinding implementation.
-<br /><br />
+and GCP
+- bigquery, GCS
 
 
-[liquorice](https://kairuz.github.io/liquorice)
+I have experience in a range of industries
+- financial services, forex, mass media, clinical trial support and analytics, telecoms provisioning, and paralegal and litigation support.
 
-Sort Visualizer
-<br /><br />
+Since 2020 I have taken a hiatus from professional development pursuing personal interests, trading precious metals; gold and silver, and developing apps in javascript relating to 
+music composition and education
+- [modality](https://kairuz.github.io/modality), [acyoustic-web](https://kairuz.github.io/acyoustic-web), [collage](https://kairuz.github.io/collage), [music-tools](https://kairuz.github.io/music-tools)
+
+and gaming
+- [predictament](https://kairuz.github.io/predictament), [trailblazer](https://kairuz.github.io/trailblazer), and [liquorice](https://kairuz.github.io/liquorice)
