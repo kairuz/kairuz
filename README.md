@@ -1,9 +1,9 @@
-I am a software engineer with over 10 years professional experience.
+I am a software engineer with over 10 years of professional experience.
 
 [resume](https://kairuz.github.io/assets/evan-kairuz-resume.pdf)
 
 Mostly using languages
-- Java, Python, Javascript
+- Java, Python, JavaScript
 
 Working with relational SQL databases
 - Oracle, Postgres, MSSQL, MySQL
@@ -23,6 +23,7 @@ I have experience in a range of industries
 
 
 Since 2020 I have taken a hiatus from professional development pursuing personal interests, trading precious metals; gold and silver, and developing apps in javascript relating to 
+
 music composition and education
 - [modality](https://kairuz.github.io/modality), [acyoustic-web](https://kairuz.github.io/acyoustic-web), [collage](https://kairuz.github.io/collage), [music-tools](https://kairuz.github.io/music-tools)
 
