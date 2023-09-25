@@ -1,4 +1,4 @@
-I am a software engineer with over 10 years of professional experience.
+I am a software engineer with over 10 years of experience.
 
 [resume](https://kairuz.github.io/assets/evan-kairuz-resume.pdf)
 
