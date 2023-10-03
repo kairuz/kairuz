@@ -1,6 +1,6 @@
 I am a software engineer with over 10 years of experience.
 
-[resume](https://kairuz.github.io/assets/evan-kairuz-resume.pdf)
+[resume](https://kairuz.github.io/assets/evan-kairuz-resume_2023-10-02.pdf)
 
 Mostly using languages
 - Java, Python, JavaScript
