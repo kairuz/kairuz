@@ -21,7 +21,7 @@ I have experience in a range of industries
 - financial services, forex, mass media, clinical trial management and analytics, telecoms provisioning, and paralegal and litigation support
 
 
-Since 2020 I have taken a hiatus from professional development pursuing personal interests, trading precious metals; gold and silver, and developing apps in javascript relating to 
+Personal Projects:
 
 music composition and education
 - [modality](https://kairuz.github.io/modality), [acyoustic-web](https://kairuz.github.io/acyoustic-web), [collage](https://kairuz.github.io/collage), [music-tools](https://kairuz.github.io/music-tools)
